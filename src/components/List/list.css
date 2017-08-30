@@ -1,0 +1,9 @@
+.line {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.line h4 {
+	margin: 0 20px;
+}

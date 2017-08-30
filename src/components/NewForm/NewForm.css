@@ -1,0 +1,27 @@
+
+.NewForm {
+	display: flex;
+	flex-direction: column;
+}
+
+.NewForm textarea, .NewForm input ,.NewForm button{
+	width: 80%;
+	margin: 0 auto;
+}
+
+.NewForm h3 {
+	text-align: center;
+	line-height: 3rem;
+	height: 3rem;
+}
+
+.NewForm input{
+	height: 50px;
+	border: 1px solid #ccc;
+	margin-bottom: 2rem;
+}
+.NewForm textarea{
+	border: 1px solid #ccc;
+	margin-bottom: 2rem;
+}
+
